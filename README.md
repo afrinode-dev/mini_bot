@@ -1,0 +1,2 @@
+# mini_bot
+A SIMPLE WHATSAPP BOT 
