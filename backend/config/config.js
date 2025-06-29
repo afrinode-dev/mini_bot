@@ -7,10 +7,10 @@ module.exports = {
     autoRecording: process.env.AUTO_RECORDING === 'true'
   },
   mega: {
-    email: process.env.MEGA_EMAIL || '1234567890',
-    password: process.env.MEGA_PASSWORD || '1234567890',
+    email: process.env.MEGA_EMAIL || 'mahiyabotz@gmail.com',
+    password: process.env.MEGA_PASSWORD || 'mutgmw@0624',
   },
   session: {
-    id: process.env.SESSION_ID || '1234567890'
+    id: process.env.SESSION_ID || ''
   }
 };
