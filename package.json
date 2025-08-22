@@ -1,0 +1,30 @@
+{
+  "name": "mini_bot",
+  "version": "1.0.0",
+  "description": "Un bot WhatsApp simple avec backend et frontend",
+  "main": "backend/index.js",
+  "scripts": {
+    "start": "node backend/index.js",
+    "dev": "nodemon backend/index.js",
+    "build": "echo 'Pas de build nécessaire pour ce projet'"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "nodejs",
+    "baileys",
+    "express"
+  ],
+  "author": "Mahii-Botz",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^6.6.0",
+    "axios": "^1.7.2",
+    "chalk": "^5.3.0",
+    "express": "^4.19.2",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
