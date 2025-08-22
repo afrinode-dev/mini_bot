@@ -18,7 +18,7 @@
   "author": "Mahii-Botz",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "^6.6.0",
+    "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "axios": "^1.7.2",
     "chalk": "^5.3.0",
     "express": "^4.19.2",
